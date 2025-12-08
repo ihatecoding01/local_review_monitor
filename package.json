@@ -25,14 +25,14 @@
     "express": "^4.18.2",
     "express-rate-limit": "^6.10.0",
     "helmet": "^7.0.0",
-    "jsonwebtoken": "^9.0.2",
+    "jsonwebtoken": "^9.0.3",
     "node-cron": "^3.0.2"
   },
   "devDependencies": {
     "eslint": "^8.57.0",
     "glob": "^11.0.3",
     "nodemon": "^3.1.11",
-    "prettier": "^3.7.3",
+    "prettier": "^3.7.4",
     "vercel": "^44.7.3"
   },
   "engines": {
